@@ -1,8 +1,9 @@
 # Three-Tier WordPress Website on AWS
 
+##   Project Overview
 This repository contains resources and scripts to deploy a WordPress website on Amazon Web Services (AWS). The project leverages various AWS services to ensure high availability, scalability, and security for the WordPress application.
 
-##   Project Overview
+##   Architecture
 
 The WordPress website is hosted on EC2 instances within a highly available and secure architecture that includes:
 
